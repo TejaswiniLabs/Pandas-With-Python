@@ -1,0 +1,26 @@
+Employee_ID,Name,Gender,Age,Department,Designation,City,Experience,Salary,Bonus,Performance_Rating,Projects,Work_Mode
+E001,Rahul,Male,25,IT,Software Engineer,Pune,2,45000,5000,4.2,3,Hybrid
+E002,Aditi,Female,27,HR,HR Executive,Mumbai,4,52000,6000,4.5,2,Office
+E003,Neha,Female,30,Finance,Accountant,Delhi,6,68000,8000,4.8,5,Office
+E004,Aman,Male,24,IT,Python Developer,Hyderabad,1,40000,4000,4.0,2,Remote
+E005,Priya,Female,29,Marketing,Marketing Manager,Pune,5,72000,9000,4.7,6,Hybrid
+E006,Rohan,Male,31,Sales,Sales Executive,Mumbai,7,65000,7000,4.3,5,Office
+E007,Sneha,Female,26,IT,Data Analyst,Bangalore,3,58000,6500,4.6,4,Hybrid
+E008,Karan,Male,28,Finance,Financial Analyst,Delhi,5,70000,8500,4.4,5,Office
+E009,Anjali,Female,23,HR,Recruiter,Pune,1,38000,3000,3.9,2,Remote
+E010,Vikram,Male,32,IT,Senior Developer,Bangalore,8,90000,12000,4.9,8,Hybrid
+E011,Arjun,Male,29,Sales,Sales Manager,Hyderabad,6,76000,9500,4.7,6,Office
+E012,Kavya,Female,27,Marketing,SEO Specialist,Delhi,4,56000,5500,4.3,3,Hybrid
+E013,Riya,Female,24,IT,Frontend Developer,Pune,2,47000,4500,4.1,3,Remote
+E014,Yash,Male,35,Finance,Finance Manager,Mumbai,10,98000,15000,4.9,9,Office
+E015,Meera,Female,28,HR,HR Manager,Bangalore,5,74000,9000,4.8,5,Hybrid
+E016,Harsh,Male,26,Marketing,Content Writer,Pune,3,50000,5000,4.2,3,Remote
+E017,Pooja,Female,31,IT,Machine Learning Engineer,Hyderabad,7,92000,14000,4.9,8,Hybrid
+E018,Raj,Male,27,Sales,Business Development,Mumbai,4,61000,7000,4.4,4,Office
+E019,Isha,Female,29,Finance,Auditor,Delhi,6,73000,8500,4.6,5,Hybrid
+E020,Sumit,Male,25,IT,Backend Developer,Bangalore,2,49000,5000,4.1,3,Remote
+E021,Nikhil,Male,33,Marketing,Digital Marketing Manager,Pune,9,88000,12000,4.8,7,Hybrid
+E022,Divya,Female,26,Sales,Sales Executive,Hyderabad,3,54000,6000,4.3,3,Office
+E023,Akash,Male,30,IT,DevOps Engineer,Delhi,6,81000,10000,4.7,6,Hybrid
+E024,Sakshi,Female,24,Finance,Junior Accountant,Mumbai,2,46000,4000,4.0,2,Office
+E025,Om,Male,28,HR,Talent Acquisition,Pune,5,63000,7500,4.5,4,Hybrid
