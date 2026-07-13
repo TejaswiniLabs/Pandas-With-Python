@@ -1,0 +1,31 @@
+Order_ID,Customer,Category,Product,City,Payment_Method,Quantity,Price,Discount,Rating
+O001,Aarav,Electronics,Laptop,Pune,UPI,1,65000,5000,4.8
+O002,Diya,Fashion,T-Shirt,Mumbai,Credit Card,3,1200,100,4.2
+O003,Kabir,Electronics,Headphones,Delhi,Cash,2,2500,200,4.5
+O004,Ananya,Groceries,Rice,Hyderabad,UPI,5,800,50,4.0
+O005,Vihaan,Furniture,Chair,Pune,Debit Card,2,3500,300,4.4
+O006,Saanvi,Electronics,Mobile,Bangalore,UPI,1,28000,1500,4.9
+O007,Arjun,Fashion,Shoes,Mumbai,Cash,2,3000,250,4.3
+O008,Ishita,Groceries,Oil,Delhi,UPI,4,700,0,4.1
+O009,Rohan,Furniture,Table,Pune,Credit Card,1,5500,500,4.6
+O010,Meera,Electronics,Smartwatch,Hyderabad,Debit Card,2,9000,700,4.7
+O011,Yash,Fashion,Jeans,Nagpur,UPI,2,1800,150,4.2
+O012,Kavya,Groceries,Sugar,Pune,Cash,6,450,20,3.9
+O013,Neha,Electronics,Tablet,Mumbai,Credit Card,1,22000,1200,4.8
+O014,Aman,Furniture,Sofa,Delhi,Debit Card,1,45000,3000,4.9
+O015,Priya,Fashion,Jacket,Hyderabad,UPI,2,4000,300,4.5
+O016,Rahul,Groceries,Wheat,Bangalore,Cash,8,600,30,4.0
+O017,Sneha,Electronics,Camera,Pune,Credit Card,1,52000,2500,4.9
+O018,Akash,Furniture,Bed,Nagpur,UPI,1,38000,2500,4.7
+O019,Pooja,Fashion,Handbag,Mumbai,Debit Card,1,3500,200,4.4
+O020,Karan,Electronics,Monitor,Delhi,UPI,2,12000,800,4.6
+O021,Riya,Groceries,Milk,Pune,Cash,10,60,0,4.3
+O022,Nikhil,Fashion,Cap,Bangalore,UPI,4,500,50,4.1
+O023,Anjali,Furniture,Wardrobe,Hyderabad,Credit Card,1,30000,2000,4.8
+O024,Harsh,Electronics,Keyboard,Nagpur,Cash,3,1800,100,4.2
+O025,Divya,Groceries,Pulses,Mumbai,UPI,5,900,70,4.4
+O026,Om,Electronics,Mouse,Pune,Debit Card,4,900,50,4.5
+O027,Sakshi,Fashion,Dress,Delhi,Credit Card,2,2500,150,4.6
+O028,Vikram,Furniture,Bookshelf,Bangalore,UPI,1,8500,500,4.3
+O029,Simran,Groceries,Tea,Hyderabad,Cash,7,300,20,4.0
+O030,Ayush,Electronics,Printer,Nagpur,Credit Card,1,15000,1000,4.7
