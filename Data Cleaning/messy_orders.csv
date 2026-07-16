@@ -1,0 +1,16 @@
+Order_ID,Customer,Email,Product,Category,City,Order_Date,Price,Quantity,Discount,Payment_Method,Rating
+O001,Rahul Sharma,rahul@gmail.com,Laptop,Electronics,Pune,2024-01-15,65000,1,10,UPI,4.8
+O002,  Neha Patil  ,NEHA@GMAIL.COM,Mobile,Electronics,Mumbai,2024-02-10,45000,1,5,Card,4.5
+O003,Aman Khan,aman@yahoo.com,Shoes,Fashion,Delhi,2024/03/18,3500,2,,Cash,4.2
+O004,Priya Singh,priya@gmail.com,T-Shirt,Fashion,Pune,15-04-2024,1200,3,15,UPI,
+O005,Karan Joshi,karan@outlook.com,Headphones,Electronics,Bangalore,2024-05-12,5500,,10,Card,4.7
+O006,Rahul Sharma,rahul@gmail.com,Laptop,Electronics,Pune,2024-01-15,65000,1,10,UPI,4.8
+O007,Meena Patel,,Mixer,Home,Ahmedabad,2024-06-20,3200,1,5,Cash,4.1
+O008,Arjun Mehta,arjun@gmail.com,TV,Electronics,Delhi,2024-07-25,78000,1,20,Card,4.9
+O009,Sneha Joshi,sneha@yahoo.com,Sofa,Furniture,Mumbai,2024-08-18,35000,1,,UPI,4.4
+O010,Rohit Verma,ROHIT@GMAIL.COM,Laptop,Electronics,Pune,2024-09-10,67000,1,10,Card,4.6
+O011,Pooja Sharma,pooja@gmail.com,Chair,Furniture,Pune,2024-10-05,4500,2,5,Cash,4.3
+O012,Vikram Singh,vikram@gmail.com,Mobile,Electronics,Delhi,2024-11-11,52000,1,10,UPI,4.7
+O013,Anjali Patel,anjali@yahoo.com,Kurti,Fashion,Ahmedabad,2024-12-01,1800,4,15,Cash,4.0
+O014,Rahul Sharma,rahul@gmail.com,Laptop,Electronics,Pune,2024-01-15,65000,1,10,UPI,4.8
+O015,Aman Khan,AMAN@YAHOO.COM,Shoes,Fashion,Delhi,2024-03-18,3500,2,5,Cash,4.2
